@@ -9,5 +9,3 @@
 * How to build a a comment form
 * How to build a simple search form
 * How to create usable and accessible forms
-
-### 
