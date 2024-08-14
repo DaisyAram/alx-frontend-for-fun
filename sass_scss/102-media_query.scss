@@ -13,11 +13,8 @@ h1 {
 
   @media screen and (max-width: 320px) {
    font-size: 14px;
-  }
-
-  &.small {
-     @media screen and (max-width: 960px) {
-   color: 1D1D1D;
+   &.small {
+     color: 1D1D1D;
    }
   } 
 }
