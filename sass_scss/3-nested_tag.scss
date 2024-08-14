@@ -1,0 +1,12 @@
+/*a Sass file that assigns no margin, no padding  to body and margin 10px to p tags inside body using varibles */
+$margin: 10px;
+$padding: 0px;
+
+body {
+  margin: 0px;
+  padding: $padding;
+  
+  p {
+    margin: $margin;
+ }
+ }
