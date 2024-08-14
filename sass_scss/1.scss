@@ -1,1 +1,12 @@
-@debug "my name is daisy the great";
+$color: pink;
+
+body {
+  background-color: $color;
+  }
+
+p {
+  background-color: $color;
+  }
+h1 {
+  background-color: $color;
+  }
